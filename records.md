@@ -1,6 +1,8 @@
 # Records
 The time is counted by time between each record
 
+3m (6a7b49bca263e26cad01ac0b943d346652463a78): 13 hours and 38 minutes (2020/07/22 00:39)
+
 2m (14559d3db8cb18c30b71b59a1a30e09bfd60b245): 8 hours and 21 minutes (2020/07/21 11:01)
 
 1m (500fd5e7f7b7a8d70838d6b142e02f5787be0288): 8 hours and 28 minutes (2020/07/21 02:40)
